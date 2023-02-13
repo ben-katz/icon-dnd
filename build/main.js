@@ -143,8 +143,8 @@
       figma.closePlugin();
     });
     showUI({
-      height: 200,
-      width: 300
+      height: 700,
+      width: 400
     });
   }
   var init_main = __esm({

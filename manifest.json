@@ -3,8 +3,8 @@
   "editorType": [
     "figma"
   ],
-  "id": "preact-rectangles",
-  "name": "Preact Rectangles",
+  "id": "DND",
+  "name": "DND",
   "main": "build/main.js",
   "ui": "build/ui.js"
 }

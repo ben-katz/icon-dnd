@@ -20,3 +20,13 @@ export interface PluginDrop {
   y:number
   file:string
 }
+
+export interface CategoryInterface {
+  iconColor: string
+  title: string
+  creator: string
+}
+
+export interface AssetInterface {
+  title: string
+}
