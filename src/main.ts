@@ -30,6 +30,7 @@ export default function () {
   })
 
   figma.on('drop', (event) => {
+    
     const { items, node, dropMetadata } = event
   
     if (items.length > 0 && items[0].type === 'image/svg+xml') {

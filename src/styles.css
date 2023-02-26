@@ -25,7 +25,7 @@
 
 .item_preview {
     border: 1px solid grey;
-    border-radius: 8px;
+    border-radius: 4px;
     height: 100px;
     width: 100%;
 }
@@ -58,4 +58,27 @@
     align-items: center;
     border-radius: 128px;
     background-color: gray;
+}
+
+.icon_red {
+    background-color: rgb(220, 65, 65);
+}
+.icon_blue {
+    background-color: rgb(65, 99, 220);
+}
+.icon_green {
+    background-color: rgb(86, 220, 65);
+}
+.icon_orange {
+    background-color: rgb(220, 161, 65);
+}
+.icon_yellow {
+    background-color: rgb(220, 212, 65);
+}
+.icon_purple {
+    background-color: rgb(150, 65, 220);
+}
+
+.item_dragging {
+    cursor: grabbing;
 }
